@@ -1,0 +1,14 @@
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/bin/Debug/net9.0/JSON_Practise_2
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/bin/Debug/net9.0/JSON_Practise_2.deps.json
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/bin/Debug/net9.0/JSON_Practise_2.runtimeconfig.json
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/bin/Debug/net9.0/JSON_Practise_2.dll
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/bin/Debug/net9.0/JSON_Practise_2.pdb
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.AssemblyInfoInputs.cache
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.AssemblyInfo.cs
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.csproj.CoreCompileInputs.cache
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.dll
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/refint/JSON_Practise_2.dll
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.pdb
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/JSON_Practise_2.genruntimeconfig.cache
+/Users/mmohanraaji/Documents/E/Practise Programs/JSON_Practise_2/JSON_Practise_2/JSON_Practise_2/obj/Debug/net9.0/ref/JSON_Practise_2.dll
